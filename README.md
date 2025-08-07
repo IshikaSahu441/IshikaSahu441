@@ -2,8 +2,6 @@
 
 Passionate about transforming data into actionable insights. With hands-on experience in data preprocessing using Excel and Python, and building machine learning models with TensorFlow and Scikit-learn, I’ve worked on projects that turn raw data into real-world solutions.
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1ZORsJbsykER0qvHyzRc-dWATdeF446bd/view?usp=sharing)
-
 ---
 ## 👀 Everything I have done at a glance!
 
