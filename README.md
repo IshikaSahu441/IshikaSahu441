@@ -1,8 +1,10 @@
 # Hi, I'm Ishika Sahu
 
-I am eager to try and find meaningful solutions to real-world problems using insights from data and machine learning models.
+I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models to make a meaningful impact.
 
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1ZORsJbsykER0qvHyzRc-dWATdeF446bd/view?usp=sharing)
 ---
+
 ## Everything I have done at a glance!
 
 ### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
