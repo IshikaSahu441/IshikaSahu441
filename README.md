@@ -2,7 +2,7 @@
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models to make a meaningful impact.
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1ZORsJbsykER0qvHyzRc-dWATdeF446bd/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1xs7TRTcUgimFbebRsHAGTfxvZoE0dNSF/view?usp=sharing)
 ---
 
 ## Everything I have done at a glance!
