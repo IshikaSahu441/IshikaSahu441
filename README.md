@@ -1,46 +1,46 @@
 # Hi, I'm Ishika Sahu
 
-Passionate about transforming data into actionable insights. With hands-on experience in data preprocessing using Excel and Python, and building machine learning models with TensorFlow and Scikit-learn, I’ve worked on projects that turn raw data into real-world solutions.
+I am eager to try and find meaningful solutions to real-world problems using insights from data and machine learning models.
 
 ---
-## 👀 Everything I have done at a glance!
+## Everything I have done at a glance!
 
-### 🤯 [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
+### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
 >  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy. 
 
 ---
 
-### 🎣 [**Phishing Email Detection Extension**](https://github.com/yashrustagi2004/Kingfisher.git)
+### [**Phishing Email Detection Extension**](https://github.com/yashrustagi2004/Kingfisher.git)
 > A browser extension to detect phishing emails using header inspection, URL analysis, and contextual analysis via NLP.
 
-> 🪐 Jupyter Notebook: [NLP Model](https://colab.research.google.com/drive/1nbZ5-bnbRk9NsZTylJRUnHSwPXi3OBaG?usp=sharing)
+ Jupyter Notebook: [NLP Model](https://colab.research.google.com/drive/1nbZ5-bnbRk9NsZTylJRUnHSwPXi3OBaG?usp=sharing)
 
 ---
 
-### ☀ [**Solar Power Generation Predictor**](https://github.com/IshikaSahu441/SKAI.git)
+### [**Solar Power Generation Predictor**](https://github.com/IshikaSahu441/SKAI.git)
 > A machine learning model to predict whether future weather conditions are optimal for high solar power generation.
 
 ---
 
-### 🛠 Technologies & Tools
+### Technologies & Tools
 
-#### 👨‍💻 Programming Languages
+#### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-#### 📚 Libraries
+#### Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Python Libraries](https://img.shields.io/badge/NumPy%20%7C%20Pandas%20%7C%20Matplotlib-013220?logo=python&logoColor=white)
 
-#### 🧰 Web Dev Tools
+#### Web Dev Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-#### 🧱 Frameworks / Platforms / Databases
+#### Frameworks / Platforms / Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -50,7 +50,7 @@ Passionate about transforming data into actionable insights. With hands-on exper
 ---
 ---
 
-### Connect with me 📬
+### Connect with me 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishika-sahu-900a5924a" target="_blank">
