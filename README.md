@@ -18,24 +18,24 @@ I am eager to solve real-world problems by generating insights from data using s
 
 ## My Projects
 
-### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
+#### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
 >  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy. 
 
 ---
 
-### [**Phishing Email Detection Extension**](https://github.com/yashrustagi2004/Kingfisher.git)
+#### [**Phishing Email Detection Extension**](https://github.com/yashrustagi2004/Kingfisher.git)
 > A browser extension to detect phishing emails using header inspection, URL analysis, and contextual analysis via NLP.
 
  Jupyter Notebook: [NLP Model](https://colab.research.google.com/drive/1nbZ5-bnbRk9NsZTylJRUnHSwPXi3OBaG?usp=sharing)
 
 ---
 
-### [**Solar Power Generation Predictor**](https://github.com/IshikaSahu441/SKAI.git)
+#### [**Solar Power Generation Predictor**](https://github.com/IshikaSahu441/SKAI.git)
 > A machine learning model to predict whether future weather conditions are optimal for high solar power generation.
 
 ---
 
-### Technologies & Tools
+## Technologies & Tools
 
 > #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
