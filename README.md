@@ -2,12 +2,12 @@
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1yWD5tXUylVuc0MgB-NqbTovlXtRSzM89/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1i2p4RWDN07P2G3jvbUpy5WmI2ZqFyIbQ/view?usp=sharing)
 ---
 
 ## Achievements
 
-> Presented research paper titled “Anomaly Detection in Human Behaviour Using Computer Vision: A Review” at International Conference on Engineering Trends in Education Systems & Sustainability 2025, JECRC University.
+> Co-authored and presented research paper titled “Anomaly Detection in Human Behaviour Using Computer Vision: A Review” at International Conference on Engineering Trends in Education Systems & Sustainability 2025, JECRC University.
 
 ---
 
