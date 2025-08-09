@@ -1,11 +1,22 @@
 # Hi, I'm Ishika Sahu
 
-I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models to make a meaningful impact.
+I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1xs7TRTcUgimFbebRsHAGTfxvZoE0dNSF/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1yWD5tXUylVuc0MgB-NqbTovlXtRSzM89/view?usp=sharing)
 ---
 
-## Everything I have done at a glance!
+## Achievements
+
+> Presented research paper titled “Anomaly Detection in Human Behaviour Using Computer Vision: A Review” at International Conference on Engineering Trends in Education Systems & Sustainability 2025, JECRC University.
+
+---
+
+## Experience 
+
+#### Peer Tutor at NIIT University (Jan-24 to May-24)
+> Selected and compensated to provid one-on-one and group tutoring in Digital Logic Circuits and Data Structures and Algorithms, improving student understanding and performance.
+
+## My Projects
 
 ### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
 >  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy. 
@@ -26,23 +37,23 @@ I am eager to solve real-world problems by generating insights from data using s
 
 ### Technologies & Tools
 
-#### Programming Languages
+> #### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-#### Libraries
+> #### Libraries
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Python Libraries](https://img.shields.io/badge/NumPy%20%7C%20Pandas%20%7C%20Matplotlib-013220?logo=python&logoColor=white)
 
-#### Web Dev Tools
+> #### Web Dev Tools
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
-#### Frameworks / Platforms / Databases
+> #### Frameworks / Platforms / Databases
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
