@@ -15,7 +15,7 @@ I am eager to solve real-world problems by generating insights from data using s
 ## Experience 
 
 #### Peer Tutor at NIIT University (Jan-24 to May-24)
-> Selected and compensated to provid one-on-one and group tutoring in Digital Logic Circuits and Data Structures and Algorithms, improving student understanding and performance.
+> Selected and compensated to provide one-on-one and group tutoring in Digital Logic Circuits and Data Structures and Algorithms, improving student understanding and performance.
 
 ## My Projects
 
