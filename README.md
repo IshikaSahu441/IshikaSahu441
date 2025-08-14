@@ -8,6 +8,7 @@ I am eager to solve real-world problems by generating insights from data using s
 ## Achievements
 
 > Co-authored and presented research paper titled “Anomaly Detection in Human Behaviour Using Computer Vision: A Review” at International Conference on Engineering Trends in Education Systems & Sustainability 2025, JECRC University.
+> [View](https://drive.google.com/file/d/1FpE2P6Y0lcMM1n9RAfo1auju0bTAwzOS/view?usp=sharing)
 
 ---
 
@@ -19,7 +20,7 @@ I am eager to solve real-world problems by generating insights from data using s
 ## My Projects
 
 #### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
->  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy. 
+>  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy.
 
 ---
 
