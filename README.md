@@ -27,6 +27,11 @@ I am eager to solve real-world problems by generating insights from data using s
 
 ---
 
+#### [Medical Chatbot – RAG-Powered AI Medical Query Assistant](https://github.com/IshikaSahu441/Medical_Chatbot.git)
+> A Flask-based Retrieval-Augmented Generation (RAG) chatbot that uses LangChain, Pinecone, and Google Gemini to deliver accurate, context-aware answers to medical-related queries.
+
+---
+
 #### [**Phishing Email Detection Extension**](https://github.com/yashrustagi2004/Kingfisher.git)
 > A browser extension to detect phishing emails using header inspection, URL analysis, and contextual analysis via NLP.
 
