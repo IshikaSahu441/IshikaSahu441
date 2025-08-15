@@ -1,10 +1,7 @@
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ishika%20Sahu&fontSize=50)
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Hi,%20I'm%20Ishika%20Sahu&fontSize=30)
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F79C42&lines=AI%20Engineering;Data+Science+%7C+ML;Analysis+%7c+Statistics" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F79C42&lines=Interested%20in:;AI%20Engineering...;Data+Science+%7C+ML...;Analysis+%7c+Statistics)](https://git.io/typing-svg)
+
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
