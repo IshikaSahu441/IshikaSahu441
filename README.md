@@ -5,7 +5,7 @@
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1i2p4RWDN07P2G3jvbUpy5WmI2ZqFyIbQ/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1H7LbbTNYnZ8ZxavM2MMUE9Dm238xOIQ3/view?usp=sharing)
 ---
 
 ## Achievements
@@ -67,7 +67,6 @@ I am eager to solve real-world problems by generating insights from data using s
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![OracleDB](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
 ---
 ---
