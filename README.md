@@ -6,6 +6,7 @@
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
 [![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1Ymi-_TqqP4RlMPE3hDboKlpDFCVbYB8O/view?usp=sharing)
+
 ---
 
 ## Achievements
@@ -19,6 +20,8 @@ I am eager to solve real-world problems by generating insights from data using s
 
 #### Peer Tutor at NIIT University (Jan-24 to May-24)
 > Selected and compensated to provide one-on-one and group tutoring in Digital Logic Circuits and Data Structures and Algorithms, improving student understanding and performance.
+
+---
 
 ## My Projects
 
