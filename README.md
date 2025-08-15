@@ -1,4 +1,10 @@
-# Hi, I'm Ishika Sahu
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Ishika%20Sahu&fontSize=50)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F79C42&lines=AI%20Engineering;Data+Science+%7C+ML;Analysis+%7c+Statistics" alt="Typing SVG" />
+  </a>
+</p>
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
