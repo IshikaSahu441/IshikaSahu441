@@ -5,7 +5,7 @@
 
 I am eager to solve real-world problems by generating insights from data using statistical analysis and machine learning models for meaningful decision making. 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1H7LbbTNYnZ8ZxavM2MMUE9Dm238xOIQ3/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?logo=resume)](https://drive.google.com/file/d/1Ymi-_TqqP4RlMPE3hDboKlpDFCVbYB8O/view?usp=sharing)
 ---
 
 ## Achievements
