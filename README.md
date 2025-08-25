@@ -72,6 +72,10 @@ I am eager to solve real-world problems by generating insights from data using s
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
+## Certification
+> Prompt Engineering for ChatGPT, 25 August 2025 [View](https://drive.google.com/file/d/1V9W4NcrCumckkJM54ZgO_ZtGpzlcl_Xt/view?usp=sharing)
+
+---
 ---
 
 ### Connect with me 
