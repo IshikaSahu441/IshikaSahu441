@@ -25,6 +25,11 @@ I am eager to solve real-world problems by generating insights from data using s
 
 ## My Projects
 
+#### [**Reflection– AI Powered Interview Preparation Platform**](https://github.com/yashrustagi2004/Reflection)
+> Built a Kubernetes-based AI interview prep platform with 6 microservices, a semantic retrieval pipeline using Sentence Transformers, Pinecone, LangChain, and Gemini for resume-driven question generation, and a Jenkins CI/CD pipeline with OAuth 2.0 and JWT authentication.
+
+---
+
 #### [**Anomaly Detection in Human Behaviour Using Computer Vision**](https://colab.research.google.com/drive/1JZookAGvND_-lqOw7-g_I9xD_jSp5icK?usp=sharing)
 >  A model capable of identifying any deviation from normal behaviour pattern while maintaining balance between speed and accuracy.
 
